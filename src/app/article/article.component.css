@@ -1,0 +1,18 @@
+.lista {
+    font-size: 180%;
+    border: 1px solid #E08D8D;
+    border-radius: 7px;
+    background-color: #EFBA9B;
+    min-height: 90px;
+    font-weight: bold;
+}
+
+#poeni {
+    color:red;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+#text {
+    font-size: 50%;
+}

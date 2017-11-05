@@ -1,0 +1,42 @@
+.container {
+    background-color: #DCA629;
+    border-radius: 3%;
+}
+
+hr {
+   color:#E08D8D;
+}
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+#dodaj {
+    padding-left: 30px;
+    font-size: 150%;
+    font-weight: bold;
+    
+}
+
+.btn-success {
+    font-size: 150%;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+}
+
+input {
+    min-width: 250px;
+    border-radius: 10px;
+    border:none;
+    outline: none;
+    background-color: #EFBA9B;
+    padding: 7px;
+    padding-left: 15px;
+}
+
+label {
+    font-size: 130%;
+}
