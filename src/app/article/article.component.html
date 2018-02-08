@@ -1,4 +1,4 @@
-  <div class="col-md-3 lista"><span id="poeni"><span> + </span>   {{ article.votes }}</span> <span id="text">Points</span> <br>
+  <div class="col-md-3 lista"><span id="poeni"><span *ngIf="article.votes > 0"> +</span>{{ article.votes }}</span> <span id="text">Points</span> <br>
       <button class="btn btn-primary" (click)="voteUp()">Upvote</button>
       <button class="btn btn-danger" (click)="voteDown()">Downvote</button>
   </div>

@@ -7,6 +7,10 @@
     font-weight: bold;
 }
 
+.col-md-9 {
+    font-family: 'Patrick Hand', cursive;
+}
+
 #poeni {
     color:red;
     font-weight: bold;
@@ -15,4 +19,8 @@
 
 #text {
     font-size: 50%;
+}
+
+.btn {
+    outline: none !important;
 }

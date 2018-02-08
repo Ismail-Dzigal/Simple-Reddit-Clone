@@ -14,7 +14,7 @@ export class Article{
       }
 
       voteDown():void{
-        this.votes -= 1;
+          this.votes -= 1; 
       }
 
 }
